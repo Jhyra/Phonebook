@@ -1,0 +1,109 @@
+
+header{
+     padding: 10px ;
+     background:#999898;
+	 width: 100%;
+}
+.h1{
+  color: white;
+  font-family:Clarendon Blk BT;
+  }
+header, .h1{
+	color:white;
+}
+form, .label{
+	color:white;
+}
+
+form, .content {
+	width: 60%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+.input-group{
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group label{
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+
+.input-group input{
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+	
+}
+
+.btn{
+	padding: 3px;
+	font-size: 15px;
+	color: green;
+	background: #999898;
+	border: 10px solid;
+	border-radius: 15px;
+	text-align: center;
+
+}
+
+.error {
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+.success{
+	color:#3c763d;
+	background: #dff0d8;
+	border: 1px solid #3c763d;
+	margin-bottom: 20px;
+}
+footer{
+     padding: 10px ;
+     background:#5F9EA0;
+	 width: 100%;
+}
+footer, .p{
+    color:white;
+    font-size:15;
+}
+p{
+	color:white;
+}
+form, {
+	width: 100%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #0000;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+	background: rgba(0, 0, 0, 0.5);
+	
+}
+.container {
+	width: 20%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+	background: rgba(0, 0, 0, 0.5);
+
+}
+table, .th {
+	color:white;
+}
